@@ -6,6 +6,8 @@ SQL queries were used to extract and diagnose key performance drivers, followed 
 
 The analysis identifies operational issues and proposes quantified value creation opportunities across pricing, cost structure, and segment performance.
 
+Further information regarding all assumptions, scenarios drivers, and process can be viewed in the document titled "methodology_report"
+
 ---
 
 Dashboard Overview
