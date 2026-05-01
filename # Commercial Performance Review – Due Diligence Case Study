@@ -8,13 +8,13 @@ The analysis identifies operational issues and proposes quantified value creatio
 
 ---
 
-## 📊 Dashboard Overview
+Dashboard Overview
 
 ![Dashboard](outputs/dashboard.png)
 
 ---
 
-## 🔍 Key Insights
+Key Insights
 
 - Revenue growing at ~24% CAGR with stable margins (~11–12%)
 - Office Supplies underperforming with high revenue but low profit contribution
@@ -24,19 +24,19 @@ The analysis identifies operational issues and proposes quantified value creatio
 
 ---
 
-## 📈 Performance Diagnostics
+Performance Diagnostics
 
 ![Diagnostics](outputs/performance-diagnostics.png)
 
 ---
 
-## 💰 Value Creation Opportunities
+Value Creation Opportunities
 
 ![Value Creation](outputs/value-creation-analysis.png)
 
 ---
 
-## 🚀 Value Creation Summary
+Value Creation Summary
 
 Three key levers identified:
 
@@ -48,14 +48,14 @@ Estimated EBIT uplift: **~$329K**
 
 ---
 
-## 🛠️ Tools Used
+Tools Used
 
 - SQL (data extraction & diagnostics)
 - Excel (financial modelling & dashboard)
 
 ---
 
-## 📁 Repository Structure
+Repository Structure
 
 - `/sql` → SQL queries used for analysis  
 - `/excel` → Financial model and dashboard  
